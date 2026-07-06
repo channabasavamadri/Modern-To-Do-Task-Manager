@@ -29,3 +29,4 @@ Overall, the Modern To-Do Task Manager is an effective productivity tool that si
 
 OUTPUT:
 <img width="1656" height="922" alt="Image" src="https://github.com/user-attachments/assets/845e63f2-b811-4080-9860-f7b3ae35a3e8" />
+<img width="1500" height="852" alt="Image" src="https://github.com/user-attachments/assets/1ba53530-99a0-4c2d-af1b-d3ee3ee559b5" />
