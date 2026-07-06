@@ -28,3 +28,4 @@ The Modern To-Do Task Manager demonstrates practical implementation of front-end
 Overall, the Modern To-Do Task Manager is an effective productivity tool that simplifies task organization and daily planning. It offers a practical solution for students, professionals, and individuals who want to manage their work efficiently. The project showcases essential web development skills while providing a real-world application that is both functional and visually appealing. It serves as an excellent beginner-to-intermediate project for learning responsive web design, JavaScript programming, and modern user interface development, making it suitable for academic submissions, personal portfolios, and software development practice.
 
 OUTPUT:
+<img width="1656" height="922" alt="Image" src="https://github.com/user-attachments/assets/845e63f2-b811-4080-9860-f7b3ae35a3e8" />
